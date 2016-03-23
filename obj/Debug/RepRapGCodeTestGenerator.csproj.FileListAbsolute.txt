@@ -1,0 +1,9 @@
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\bin\Debug\RepRapGCodeTestGenerator.exe.config
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\bin\Debug\RepRapGCodeTestGenerator.exe
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\bin\Debug\RepRapGCodeTestGenerator.pdb
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.csprojResolveAssemblyReference.cache
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.Form1.resources
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.Properties.Resources.resources
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.csproj.GenerateResource.Cache
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.exe
+c:\users\jamesr\documents\visual studio 2013\Projects\RepRapGCodeTestGenerator\RepRapGCodeTestGenerator\obj\Debug\RepRapGCodeTestGenerator.pdb
